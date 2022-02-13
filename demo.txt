@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 andaaaa
 el primer cambiesito ohsiohsi
 :3
@@ -5,3 +6,5 @@ jueee
 puuu
 taaa
 D:
+=======
+>>>>>>> parent of dc0e223 (Primera modificación)
